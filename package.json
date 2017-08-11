@@ -1,0 +1,18 @@
+{
+  "name": "show-routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "router": "./index.js"
+  },
+  "dependencies": {
+    "find-in-files": "^0.4.0",
+    "lodash": "^4.17.4"
+  }
+}
